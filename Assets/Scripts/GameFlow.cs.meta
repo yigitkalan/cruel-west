@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e91eb4a0108a6840a835b929ba3c582
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textComponent: {instanceID: 0}
+  - startingState: {fileID: 11400000, guid: a845e3c7e4ef8ba41a5b149f5e25aa6d, type: 2}
+  - kritik: {fileID: 11400000, guid: fd5423135f35b764d97259fc1c7502b6, type: 2}
+  - yolAyrimi: {fileID: 11400000, guid: 26172b96bbb6b624fb4fd7366cf116e8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

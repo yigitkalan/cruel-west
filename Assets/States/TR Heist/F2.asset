@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: F2
+  m_EditorClassIdentifier: 
+  storyText: "Kemerimdeki \xE7akma\u011F\u0131 \xE7\u0131kard\u0131m ve tahta, dal
+    ve k\xF6m\xFCrleri bir araya getirmeye ba\u015Flad\u0131m. Bir s\xFCre sonra
+    k\xF6m\xFCrlerin alt\u0131ndaki dal ve tahta par\xE7alar\u0131 tutu\u015Fmaya
+    ba\u015Flad\u0131. Tamam harekete ge\xE7me vakti yak\u0131nda treni durdurup
+    bo\u015Falt\u0131rlar. Hassiktir bu ne ar\u0131yor burada! Bir \xE7ocuk kap\u0131n\u0131n
+    yan\u0131ndan beni g\xF6zetliyor. Bu durunu halletmem laz\u0131m ama zaman\u0131m
+    gittik\xE7e azal\u0131yor.\n\n1. \xC7ocu\u011Fu yakala ve bay\u0131lt\n2. B\u0131rak
+    gitsin bu kaosta onun dedi\u011Fini umursayacak de\u011Filler"
+  nextStates:
+  - {fileID: 11400000, guid: 77dd03daffcd52448bf0d2c7846e988d, type: 2}
+  - {fileID: 11400000, guid: 36266500e39c4ae489cae4f1a03494b9, type: 2}
+  ayrim: 1

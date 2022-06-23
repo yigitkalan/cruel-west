@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FF1
+  m_EditorClassIdentifier: 
+  storyText: "...Yang\u0131n\u0131 farketmi\u015F olmal\u0131lartren yava\u015Flamaya
+    ba\u015Flad\u0131... Yolcular\u0131 tahliye ediyorlar... O da kim, tren ekibinden
+    biri bana do\u011Fru geliyor. Lanet olsun adam beni d\u0131\u015Far\u0131 \xE7\u0131kartmaya
+    \xE7al\u0131\u015F\u0131yor. Onu beni farketmi\u015Fken bay\u0131ltamam, cebimde
+    bir b\u0131\xE7ak var. E\u011Fer bunu halletmezsem para falan alamayaca\u011F\u0131m.\n\n1.
+    Bo\u011Faz\u0131n\u0131 kes, enazd\u0131ndan h\u0131zl\u0131 olur\n2. Onunla
+    d\u0131\u015Far\u0131 \xE7\u0131k ve ortadan kaybol, VAZGE\xC7"
+  nextStates:
+  - {fileID: 11400000, guid: a8cc08374c23ea842b324587127450c9, type: 2}
+  - {fileID: 11400000, guid: a27e1b0fda0f8234e96748be4db5ca03, type: 2}
+  ayrim: 0

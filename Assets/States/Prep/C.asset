@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: C
+  m_EditorClassIdentifier: 
+  storyText: '...Here he comes, probably drunk since he drank till this time, he
+    can barely walk. I approah him in the back and push my gun behind his head. Telling
+    him to give me the ticket. He stops for a moment raising his both hands in fear,
+    then he turns back and says " This... gun of yours... isn''t real, I''m not buyin''
+    it" with a hickup. I am gonna have to deal with this now...
+
+
+
+    1. Give him
+    a taste of the "fake gun" of yours.
+
+    2. Beat him up and force him to give
+    you the ticket.'
+  nextStates:
+  - {fileID: 11400000, guid: e5b3dacb5a2564642937066c1460a215, type: 2}
+  - {fileID: 11400000, guid: c1839beca19933b4683f3fd619017b9d, type: 2}
+  ayrim: 0

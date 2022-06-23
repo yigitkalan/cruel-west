@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: C 4
+  m_EditorClassIdentifier: 
+  storyText: "- \"ya\u015Fl\u0131 moruk\" art\u0131k \xF6l\xFC, ba\u015Fka bir de\u011Fersiz
+    hayat daha senin ellerin taraf\u0131ndan al\u0131nd\u0131, ama t\xFCm bunlar
+    \xF6nemli de\u011Fil \xE7\xFCnk\xFC senin problemin onlar\u0131nkinden daha b\xFCy\xFCk...
+    de\u011Fil mi? -\nBurdan \xE7ekip gitsem iyi olacak. \xDCniformay\u0131 ald\u0131m
+    tek yapmam gereken trenin kasabadan ge\xE7mesini beklemek\n\n1. Bekle..."
+  nextStates:
+  - {fileID: 11400000, guid: f0e1128f994f15348ae7e9796e8fda4d, type: 2}
+  ayrim: 0

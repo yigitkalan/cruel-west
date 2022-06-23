@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: S
+  m_EditorClassIdentifier: 
+  storyText: "- i\u015Fte burdas\u0131n, d\xFC\u015F\xFCn\xFCyorsun, k\u0131\xE7\u0131n\u0131
+    bu bataktan nas\u0131l kurtaraca\u011F\u0131n\u0131 d\xFC\u015F\xFCn\xFCyorsun,
+    adamlar paralar\u0131n\u0131 geri istiyor, sevgili d\xFCr\xFCst arkada\u015F\u0131n\u0131
+    kurtarmak i\xE7in verdi\u011Fin para hani. D\xFC\u015F\xFCnmeye devam etsen iyi
+    olur -\n\n\xC7ok fazla borcum var, \xE7ok... Bu adamlara bula\u015Fmayacakt\u0131m,
+    hem de ne i\xE7in, s\xF6zde bir arkada\u015F. Her neyse bu paray\u0131 bulman\u0131n
+    bir yolunu bulsam iyi olur, yoksa paradan daha \xF6nemli \u015Feylerim gidicek.\n\n1.
+    Devam"
+  nextStates:
+  - {fileID: 11400000, guid: 2285b8712eb551240b91e494ae482f55, type: 2}
+  ayrim: 0

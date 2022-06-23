@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FFF2
+  m_EditorClassIdentifier: 
+  storyText: "Bana sadece yard\u0131m etmeye \xE7al\u0131\u015Fan birini \xF6ld\xFCremem,
+    siktir! D\u0131\u015Far\u0131 \xE7\u0131kt\u0131m, art\u0131k i\xE7eri giremem.
+    Burdan kaybolmal\u0131y\u0131m ba\u015Fka bir se\xE7ene\u011Fim yok, onlar o
+    lanet yang\u0131n\u0131n nas\u0131l ba\u015Flad\u0131\u011F\u0131n\u0131 \xE7\xF6zmeden
+    \xF6nce gitmeliyim... Yolcular\u0131n aras\u0131ndan s\u0131yr\u0131l\u0131p
+    ormanl\u0131klara kar\u0131\u015Ft\u0131m, o kaosta kimse beni fark etmedi. Geride
+    hi\xE7bir \u015Feyim ya da hi\xE7 kimsem kalmad\u0131, belki ortadan kaybolmayl\u0131y\u0131m,
+    hi\xE7 varolmam\u0131\u015F gibi yok olmal\u0131... Evet belki b\xF6yle yapar\u0131m...\n\n-
+    a\u011Fa\xE7lar\u0131n aras\u0131ndan esen r\xFCzgar\u0131 y\xFCz\xFCne hissediyorsun,
+    nedenini bilmiyorsun ama rahatlam\u0131\u015F hissediyorsun -\n\n1. Bitir"
+  nextStates:
+  - {fileID: 11400000, guid: cd6c16accd9551848a3b939bd7aca7fb, type: 2}
+  ayrim: 0

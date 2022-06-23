@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FF2
+  m_EditorClassIdentifier: 
+  storyText: 'When I run into the woods behind the train, a woman was screaming and
+    crying that his son is in the train. Is he the boy I knocked out and they didn''t
+    find him. I know where he is but it''s too late.
+
+    I can''t g back and save
+    that kid then I would get caught.
+
+
+
+    1. Go back and save the kid
+
+
+
+    2.
+    It''s their problem you have your own''s'
+  nextStates:
+  - {fileID: 11400000, guid: 57ae3b71b4902664f8ef8687886177aa, type: 2}
+  - {fileID: 11400000, guid: c2ab33cec93d1c04990388b9d78ae539, type: 2}
+  ayrim: 0

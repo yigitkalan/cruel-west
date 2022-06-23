@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FFF2
+  m_EditorClassIdentifier: 
+  storyText: 'I can''t kill a man who''s just trying to help me, fuck! I go outside,
+    I can''t go inside now, I''m with other passengers. I gotta get lost I don''t
+    have any other option, gotta get lost before they figure out how the hell that
+    fire started... I sneak among passengers and dive into the woods, no one notice
+    me in that chaos. I have nothing or no one left, maybe I should dissappear, vanish
+    like I never existed...
+
+    Yeah maybe I''ll do that...
+
+
+    - you feel the
+    wind blowing among the trees on your face, you feel relieved, even you don''t
+    know why -
+
+
+    1. Finish'
+  nextStates:
+  - {fileID: 11400000, guid: cd6c16accd9551848a3b939bd7aca7fb, type: 2}
+  ayrim: 0

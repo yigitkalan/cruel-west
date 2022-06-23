@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: C 7
+  m_EditorClassIdentifier: 
+  storyText: 'Okay the job is handled. Now we gotta find horses for some of Hector''s
+    man to cath up with the train. Hector says he will arrange that. I dont want
+    to dive into his dirty work so I''m not gonna meddle his work. Next is planning...
+
+    
+
+    1.
+    Start making a plan with Hector and his crew'
+  nextStates:
+  - {fileID: 11400000, guid: 81a98850f020f664f9d03c93faa2276c, type: 2}
+  ayrim: 

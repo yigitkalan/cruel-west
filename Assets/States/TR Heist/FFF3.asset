@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FFF3
+  m_EditorClassIdentifier: 
+  storyText: "Para dolu \xE7antay\u0131 \xE7al\u0131l\u0131klar\u0131n aras\u0131na
+    saklay\u0131p trene do\u011Fru ko\u015Ftum. Trene girdim \xE7ocuk yerde \xF6ks\xFCr\xFCyordu,
+    bo\u011Fulup \xF6lmek \xFCzere olan \xE7ocu\u011Fu a\u0131p d\u0131\u015Far\u0131
+    \xE7\u0131kt\u0131m. Annesine verdi\u011Fim gibi \xE7ocuk uyand\u0131, ben h\u0131zl\u0131ca
+    ortadan kaybolamya \xE7al\u0131\u015F\u0131rken beni g\xF6sterip herkese benim
+    yapt\u0131\u011F\u0131m\u0131 s\xF6yledi. Bu \xE7ok belliydi, yerdeyim muhtemelen
+    \u015Ferif gelene kadar beni d\xF6vecekler... Bor\xE7tan ka\xE7arken bir mahkum
+    oldum...\n\n- belki b\xFCt\xFCn bu olanlar daha iyidir diye d\xFC\u015F\xFCn\xFCyorsun,
+    yapt\u0131klar\u0131n\u0131n ve yapamad\u0131klar\u0131n\u0131n cezas\u0131n\u0131
+    \xE7ekebilirsin, evet belki kefarete kavu\u015Fursun -\n\n1. Bitir"
+  nextStates:
+  - {fileID: 11400000, guid: cd6c16accd9551848a3b939bd7aca7fb, type: 2}
+  ayrim: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FFF5
+  m_EditorClassIdentifier: 
+  storyText: "3 man from the train crew saw me when I was trying to get out of the
+    train, what are they doing here, they are coming to get me. Of course that kid
+    snitch up on me... That was obvious, I am on the ground, probably they are gonna
+    beat me till the sheriff comes. Got in jail when I run from the debt... Was it
+    even worth it all the plans all the damage \u0131 cause to people ?..\n\n-you
+    think while you are being beated up, was it worth it... you know it wasn't -\n\n1.
+    Finish"
+  nextStates:
+  - {fileID: 11400000, guid: cd6c16accd9551848a3b939bd7aca7fb, type: 2}
+  ayrim: 0

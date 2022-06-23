@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: C 6
+  m_EditorClassIdentifier: 
+  storyText: 'Okay this is the location; an old shack, is this place where that guy
+    lives realy. I bust the place in a rush, there is our guy is lying in bed, hee
+    looks pale. I point the gun to him he can''t even defend himself.
+
+
+
+    1.Just
+    SHOOT him and get this over with he has done cruel things to others
+
+    2. Doesn''t
+    everyone deserve a second chance, I can hide him'
+  nextStates:
+  - {fileID: 11400000, guid: 963d3f432a3fac54cb7edee7267dc8ee, type: 2}
+  - {fileID: 11400000, guid: 963d3f432a3fac54cb7edee7267dc8ee, type: 2}
+  ayrim: 1

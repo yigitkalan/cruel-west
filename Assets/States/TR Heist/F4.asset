@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: F4
+  m_EditorClassIdentifier: 
+  storyText: "Tren sabit oldu\u011Fundan \xE7ok k\u0131s\u0131tl\u0131 zaman\u0131m\u0131z
+    var, \u015Ferif ve adamlar\u0131 geleceklerdir. Aramizdan biri vagon kap\u0131s\u0131nda
+    beklerken biz de yolcular\u0131n paralar\u0131n\u0131 ald\u0131k. Hector ve adamlar\u0131
+    para vermeyi reddeden yolcular\u0131 vurup paray\u0131 kendileri almay\u0131
+    tercih ettiler.\n\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 7abf19bb003fcba42be4d6619b6831a1, type: 2}
+  ayrim: 0

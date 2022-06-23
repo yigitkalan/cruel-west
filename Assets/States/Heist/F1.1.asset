@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: F1.1
+  m_EditorClassIdentifier: 
+  storyText: 'I sneak upon him from his back, strangle him with one of my arms while
+    shutting his mouth with other one. He is fainted now, gotta drag him behind those
+    shelfs near the door. Then I start gathering the flammable sources like woods
+    and coal, this place is full of them...
+
+    
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 1390e0ba26d0b4a47b5af26d93314e39, type: 2}
+  ayrim: 

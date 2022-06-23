@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: T2
+  m_EditorClassIdentifier: 
+  storyText: "Tamam i\u015Fte geliyor, \xE7antam ve \xFCniformamla burday\u0131m.
+    Tren istasyondan kalkt\u0131ktan sonra son saniyede atlayaca\u011F\u0131m...
+    Trendeyim, hem de malzeme vagonunda. Bu iyi, buras\u0131 yan\u0131c\u0131 \u015Feylerle
+    dolu. \u0130\u015Fe koyulma vakti.\n\n1. Yang\u0131n\u0131 haz\u0131rla"
+  nextStates:
+  - {fileID: 11400000, guid: 85ddfee1ddbe2954b94e389a0a9c9ffa, type: 2}
+  ayrim: 0

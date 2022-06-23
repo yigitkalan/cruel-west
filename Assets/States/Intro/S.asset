@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: S
+  m_EditorClassIdentifier: 
+  storyText: "- here you are thinking, thinking about how the hell are you gonna
+    save your ass from these guys, they're waiting for their money, the money you
+    took to save your dear trustful friend. Better keep thinking -\n\nI'm in a lot
+    of debt, a lot. Shouldn't have mess with these guys and for what, a so called
+    friend. \r\rAnyways I gotta find a way to pay the loan or they're gonna take
+    other things from me...\r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: f979c5c57a4efac44982c9aeba83ed8b, type: 2}
+  ayrim: 0

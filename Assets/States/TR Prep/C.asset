@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: C
+  m_EditorClassIdentifier: 
+  storyText: "... \u0130\u015Fte geliyor, b\xFCy\xFCk ihtimalle sarho\u015F bu zamana
+    kadar i\xE7mi\u015F, zar zor y\xFCr\xFCyor. Arkas\u0131ndan yakla\u015F\u0131t\u0131m
+    ve kafas\u0131na silah\u0131 dayad\u0131m. Ona bileti bana vermesini s\xF6yledim.
+    Bir an i\xE7in durdu ve korkuyla ellerini kald\u0131rd\u0131, sonra arkas\u0131n\u0131
+    d\xF6n\xFCp \" O silah... senin silah\u0131n... ger\xE7ek de\u011Fil... yemezler\"
+    dedi h\u0131\xE7k\u0131rarak. Ah lanet olsun bir de bununla u\u011Fra\u015Faca\u011F\u0131m.\n\n1.
+    Sahte silahm\u0131\u015F, ona \"sahte silah\u0131n\" tad\u0131na bakt\u0131rt.\n2.
+    Onu d\xF6v ve bileti zorla verdirtmeye \xE7al\u0131\u015F."
+  nextStates:
+  - {fileID: 11400000, guid: 80afdbd8c9e439c49af81fe8f8a45c35, type: 2}
+  - {fileID: 11400000, guid: 16aef9e2bc14bdb48849d9ca48b029c3, type: 2}
+  ayrim: 0

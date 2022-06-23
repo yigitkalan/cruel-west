@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  storyText: "Tamam bardaki bir adam\u0131n biletiyle ve trenle ilgili \xF6v\xFCnd\xFC\u011F\xFCn\xFC
+    duydum, bahse var\u0131m o kadar da ihtiyac\u0131 yoktur. Onun bardan \xE7\u0131kmas\u0131n\u0131\r
+    bekleyebilirim lanet herif ak\u015Fama kadar i\xE7ecek...\r\n\r\n\r\n1.Bekle..."
+  nextStates:
+  - {fileID: 11400000, guid: 97fdf826025e3564abc6dd9e36496b56, type: 2}
+  ayrim: 0

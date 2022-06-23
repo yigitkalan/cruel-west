@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: F1
+  m_EditorClassIdentifier: 
+  storyText: "Bir \xFCniformam olmad\u0131\u011F\u0131ndan yak\u0131t deposuna girmek
+    zor olacak. Koltu\u011Fumdan kalkt\u0131m ve sonraki vagona do\u011Fru y\xFCr\xFCmeye
+    ba\u015Flad\u0131m, bundan sonraki yak\u0131t vagonu olmal\u0131 ama kap\u0131s\u0131nda
+    bir i\u015F\xE7i bekliyor. Onu bay\u0131ltmay\u0131 deneyebilirim ama bu \xE7ok
+    ses \xE7\u0131karabilir ya da bekleyebilirim belki gider.\n\n1. Ona gizlice yakla\u015F
+    ve onu bay\u0131ltmay\u0131 dene.\n2. Biraz bekle belki gider."
+  nextStates:
+  - {fileID: 11400000, guid: c01b40daf8ea367418743a2d4cc3876b, type: 2}
+  - {fileID: 11400000, guid: ef116371df2323a488acd630b47a5f5e, type: 2}
+  ayrim: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  storyText: "Bara gittim ve kasaba halk\u0131yla konu\u015Fmaya ba\u015Flad\u0131m.
+    Biraz ara\u015Ft\u0131rma yapt\u0131ktan sonra kasaba da ya\u015Fl\u0131 emekli
+    bir makinistin oturdu\u011Funu \xF6\u011Frendim. Hala \xFCniforma ondaysa, ona
+    gidip \xFCniformay\u0131 bana vermesi i\xE7in onu ikna edebilirim belki.\r\n\r\n\r\n1.Ya\u015Fl\u0131
+    adam\u0131n evine git"
+  nextStates:
+  - {fileID: 11400000, guid: 92c4f6244572de6409bea630f769a058, type: 2}
+  ayrim: 0

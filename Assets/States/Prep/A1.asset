@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: 'As soon as I step in to the saloon I sense a dense scent of liqueur.
+    Around the tables drunks sipping their drink, bar girls trying to get some tip
+    from them. There... Hector leaning to the bar talking to a bar girl with his
+    coat and oversized hat and his men lingering, they could be a good crew for the
+    heist. But they have a bad reputation about killing. And I don''t know if I can
+    trust Hector about this, I don''t know him very well.
+
+
+
+    1. Try to convince
+    them to join to the heist it''s not a one man job
+
+    2. I can''t, Hector is
+    not trustwhorty'
+  nextStates:
+  - {fileID: 11400000, guid: ee7f6c3cf6311624f8f322ccaf26cb8d, type: 2}
+  - {fileID: 11400000, guid: ff23608215e74964a9f12028093b2747, type: 2}
+  ayrim: 0

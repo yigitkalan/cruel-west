@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: T3
+  m_EditorClassIdentifier: 
+  storyText: "Trenin gelmesini beklerken, trenin d\xFCd\xFC\u011F\xFC duyuldu. Tren
+    yan\u0131m\u0131zdan ge\xE7erken atlar\u0131 ko\u015Fturduk ve trenle ayn\u0131
+    hizaya getirdik. Trene atlamaya ba\u015Flad\u0131k.\n\n1. Devam et"
+  nextStates:
+  - {fileID: 11400000, guid: 9a7d82300b783734ebc385e737410899, type: 2}
+  ayrim: 0

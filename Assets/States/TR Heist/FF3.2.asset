@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FF3.2
+  m_EditorClassIdentifier: 
+  storyText: "O\u011Flu a\u011Flayarak bana engel olmaya \xE7al\u0131\u015F\u0131rken
+    paras\u0131n\u0131 ald\u0131m, sadece biraz bozuklukmu\u015F. Lanet herif neden
+    bu kadar \u0131srar etti vermemekte. Siktir! Ne alabiliyorsam al\u0131p burdan
+    \xE7ekip gitmeliyim art\u0131k.\n\n1. Devam et"
+  nextStates:
+  - {fileID: 11400000, guid: f38f805d82caca84c9d2aff45ed045a7, type: 2}
+  ayrim: 0

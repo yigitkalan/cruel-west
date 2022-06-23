@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: F2.1
+  m_EditorClassIdentifier: 
+  storyText: "Tamam \xE7ocuk art\u0131k bir problem de\u011Fil... Yang\u0131n\u0131
+    farketmi\u015F olmal\u0131lar, tren yava\u015Flamaya ba\u015Flad\u0131... Tren
+    ekibi yolcular\u0131 d\u0131\u015Far\u0131ya tahliye etmeye ba\u015Flad\u0131,
+    i\u015Fte benim \u015Fans\u0131m, herkes d\u0131\u015Far\u0131dayken h\u0131zl\u0131ca
+    trende b\u0131rakt\u0131klar\u0131 para ve tak\u0131lar\u0131 alabilirim... Paralar\u0131
+    toplay\u0131p ka\xE7maya haz\u0131rlan\u0131yorum, ormana do\u011Fru ko\u015Fup
+    kaybolma varkti geldi\n\n1. Orman\u0131n aras\u0131na kar\u0131\u015F"
+  nextStates:
+  - {fileID: 11400000, guid: 6fd737438aa8e83408512b7ef09e4eec, type: 2}
+  ayrim: 0

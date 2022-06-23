@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FFF1
+  m_EditorClassIdentifier: 
+  storyText: "\xD6l\xFC bedeni, kan\u0131 vuc\xFCdundan d\u0131\u015Far\u0131ya do\u011Fru
+    bo\u015Fal\u0131rken titriyordu... Tela\u015Fla yolcular\u0131n kalan para ve
+    m\xFCcevherlerini ald\u0131m. \xC7antam neredeyse tamamen doldu art\u0131k gitmeyliyim.
+    Bana yard\u0131m etmeye \xE7al\u0131\u015Fan adam\u0131n bedeni art\u0131k so\u011Fuk
+    ve sabit, \xF6ylece duruyor, trenin \xF6teki taraf\u0131ndan \xE7\u0131kt\u0131m
+    ve ormanl\u0131\u011F\u0131n aras\u0131na kar\u0131\u015Ft\u0131m, para art\u0131k
+    bende, kanl\u0131 para...\n\n- ka\xE7arken d\xFC\u015F\xFCnmeye ba\u015Fl\u0131yorsun,
+    b\xFCt\xFCn bunlara de\u011Fdi mi -\n\n1. Bitir"
+  nextStates:
+  - {fileID: 11400000, guid: cd6c16accd9551848a3b939bd7aca7fb, type: 2}
+  ayrim: 0

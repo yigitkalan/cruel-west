@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: F2.1
+  m_EditorClassIdentifier: 
+  storyText: 'Okay kid is not a problem anymore... They must have been realized the
+    fire, the train is slowing down... Train crew evacuating the passengers, that''s
+    my chance when everyone is out I sneak out and took the jewelry and money the
+    passengers left behind. It''s time to run into the woods and dissapear.
+
+    
+
+    1.
+    Go into the woods and dissappear'
+  nextStates:
+  - {fileID: 11400000, guid: 28b2227dae226c6458d264a89e88c695, type: 2}
+  ayrim: 

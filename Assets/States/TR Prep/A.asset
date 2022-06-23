@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: A
+  m_EditorClassIdentifier: 
+  storyText: "...Tamam, son \xE7arem tren. \xD6n\xFCm\xFCzdeki hafta bu kasabadan
+    ge\xE7en yolcu trenini soyaca\u011F\u0131m. Genelde zengin insanlar bu trende
+    olur ve de baz\u0131 zengin olmay\u0131p yolculuk etmesi gerekenler. Ama bu i\u015F
+    tek ki\u015Filik bir i\u015F mi yoksa bir \xE7eteye mi ihtiya\xE7 var ? Bunun
+    gibi bir i\u015F yapmak zor, ama e\u011Fer do\u011Fru adamlar\u0131 bulamazsam\r
+    di\u011Fer yolla yapmak zorunda kal\u0131cam.\r\n\r\r\n1.Bara git ve bir ekip
+    ara\n2.Yaln\u0131z ba\u015F\u0131na git ve haz\u0131rl\u0131klara ba\u015Fla\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: b6ebf18d676dba14abfa0d08d8899766, type: 2}
+  - {fileID: 11400000, guid: c02c526478f4f5f4bbc8e955ff9291db, type: 2}
+  ayrim: 0

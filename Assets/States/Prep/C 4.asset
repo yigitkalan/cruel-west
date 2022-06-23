@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: C 4
+  m_EditorClassIdentifier: 
+  storyText: "- \"old baggage\" is dead now, another vile life is taken by your own
+    hands, but these doesnt matter because your problem is bigger than these...right?...-\r\nI
+    gotta get the hell out of here. I got the uniform now \u0131 just gotta wait
+    for the train\r\n\r\n1. Wait... "
+  nextStates:
+  - {fileID: 11400000, guid: bf832bc97935ad848a78d31db713649d, type: 2}
+  ayrim: 

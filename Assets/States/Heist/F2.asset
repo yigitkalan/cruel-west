@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: F2
+  m_EditorClassIdentifier: 
+  storyText: 'I take out the lighter in my belt and gather some woods for coals.
+    After some time woods under the coals start flaming.
+
+    Okay time to move on
+    soon they''ll stop and empty the train, fuck who is this!  A kid is peeking behind
+    the door, he saw me. I should handle this, but I don''t have time
+
+
+
+    1. Catch
+    the kid and knock him out
+
+    2. Just let the kid go there will be chaos anyways.'
+  nextStates:
+  - {fileID: 11400000, guid: 048be462d06129e41b4132014744f82d, type: 2}
+  - {fileID: 11400000, guid: c21adafbc74eb004f8db2874f871e8af, type: 2}
+  ayrim: 

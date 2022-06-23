@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FFF5
+  m_EditorClassIdentifier: 
+  storyText: "Trenden \xE7\u0131kmaya \xE7al\u0131\u015F\u0131rken tren ekibinden
+    3 ki\u015Fi beni g\xF6rd\xFC, d\u0131\u015Far\u0131da olmalar\u0131 gerekirdi.
+    Bana do\u011Fru geliyorlar. Tabi ki o velet beni ispiyonlad\u0131, tahmin etmeliydim...
+    Yerdeyim, \u015Ferif gelene kadar h\u0131n\xE7lar\u0131n\u0131 benden \xE7\u0131karacaklar.
+    Bor\xE7tan ka\xE7arken hapse d\xFC\u015Ft\xFCm. B\xFCt\xFCn yap\u0131lan planlara,
+    insanlara verdi\u011Fim zarara de\u011Fdi mi?.. \n\n- yerde seni d\xF6verlerken
+    de\u011Fdi mi b\xFCt\xFCn bunlara de\u011Fdi mi diye d\xFC\u015F\xFCn\xFCyorsun...
+    cevab\u0131 bildi\u011Fin halde -\n\n1. Bitir"
+  nextStates:
+  - {fileID: 11400000, guid: cd6c16accd9551848a3b939bd7aca7fb, type: 2}
+  ayrim: 0

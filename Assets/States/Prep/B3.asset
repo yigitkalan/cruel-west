@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: B3
+  m_EditorClassIdentifier: 
+  storyText: 'I tell Hector about the job, not with all details I dont want them
+    in my way later if they refuse to join... He accepted to help but he wants me
+    to do something for him first to prove myself, KILL a man who do bad things as
+    Hector says. And even if I didn''t, he would''ve kill him. He says he already
+    put him in a bad situation.
+
+
+
+    1. I can kill him he is a bad guy all in all
+    right ?
+
+    2. I am not gonna go deeper in this shit, gotta have to handle the
+    train myself'
+  nextStates:
+  - {fileID: 11400000, guid: 26172b96bbb6b624fb4fd7366cf116e8, type: 2}
+  - {fileID: 11400000, guid: ff23608215e74964a9f12028093b2747, type: 2}
+  ayrim: 0

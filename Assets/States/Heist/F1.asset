@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: F1
+  m_EditorClassIdentifier: 
+  storyText: "Since I got no uniform it'll be hard to get in the supply wagon. I
+    get up from my seat and start walking to next wagon, other one must be the supply
+    wagon but it has a worker waiting at its door.\r\nI can try to knock him out
+    but that maybe make a lot of noise, maybe \u0131 should wait\r\n\r\n1. Sneak
+    up on him and try to knock him out \r\r\n2.Just wait maybe he'll leave"
+  nextStates:
+  - {fileID: 11400000, guid: 3c11853af48ae6848ba26a71fde9db10, type: 2}
+  - {fileID: 11400000, guid: 9c1d33c6ef8cfe64cb0b3b385d8985d6, type: 2}
+  ayrim: 

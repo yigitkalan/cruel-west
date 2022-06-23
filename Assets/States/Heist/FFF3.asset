@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FFF3
+  m_EditorClassIdentifier: 
+  storyText: 'I hide the money bag under some bushes, and run to the train, get in.
+    Here he is lying on the ground coughing, I take the almost dying kid and get
+    out. As soon as I let him to his mother he wake up, while I trying to get lost
+    slowly he points at me and  tells everyone that I did all of this... That was
+    obvious, I am on the ground, probably they are gonna beat me till the sheriff
+    comes... Got in jail while I runnin from the debt...
+
+
+    - you think maybe
+    this is better after all, you can pay for what you did and what you couldn''t...
+    Yeah maybe you can -
+
+
+    1. Finish'
+  nextStates:
+  - {fileID: 11400000, guid: cd6c16accd9551848a3b939bd7aca7fb, type: 2}
+  ayrim: 0

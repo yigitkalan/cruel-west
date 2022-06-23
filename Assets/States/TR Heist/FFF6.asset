@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FFF6
+  m_EditorClassIdentifier: 
+  storyText: "\xC7antam neredeyse tamamen dolu, gitme vakti geldi. \xC7\u0131karken
+    Hector'a gitti\u011Fimi belirten bi bak\u0131\u015F att\u0131m ve vagon kap\u0131s\u0131na
+    do\u011Fru ilerlemeye ba\u015Flad\u0131m. Bir el ate\u015F daha duydum... Siktir!
+    Bana ate\u015F etti, Aahh! Yerde yat\u0131yorum. Ayak sesleri... Hector bir \u015Feyler
+    s\xF6yl\xFCyor, \" O hayat\u0131n\u0131 ba\u011F\u0131\u015Flad\u0131\u011F\u0131n
+    ve saklad\u0131\u011F\u0131n \u015Ferefsiz benim k\u0131z\u0131m\u0131 \xF6ld\xFCrd\xFC,
+    benim k\u0131z\u0131m\u0131...\" Bir el at\u0131\u015F daha. Her \u015Fey...
+    Karar\u0131yor...\n\n- art\u0131k sen yoksun, sadece sessizlik var-\n\n1. Bitir"
+  nextStates:
+  - {fileID: 11400000, guid: cd6c16accd9551848a3b939bd7aca7fb, type: 2}
+  ayrim: 0

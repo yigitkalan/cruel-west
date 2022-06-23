@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: C 3
+  m_EditorClassIdentifier: 
+  storyText: "Eski bir kul\xFCbede ya\u015F\u0131yormu\u015F, kul\xFCbeye girdim...
+    Zar zor y\xFCr\xFCyebiliyordu, ilk ba\u015Fta korktu, ona ne ihtiyac\u0131m oldu\u011Funu
+    s\xF6yledim, konu\u015Fmaya ba\u015Flad\u0131k...\n\nYa\u015Fl\u0131 adam silah\u0131m\u0131
+    istiyor, benim silah\u0131m\u0131! Ona silah\u0131m\u0131 veremem. Hector'unki
+    gibi haydut \xE7etelerden korunmak i\xE7in istedi\u011Fini s\xF6yl\xFCyor.\n\n1.
+    Bir dakika, ya\u015Fl\u0131 moru\u011Fu vurup alabilirim, ac\u0131s\u0131na son
+    vermek en iyisi olacak.\n2. B\xFCy\xFCk bir risk olsa da silah\u0131ma \xE7ok
+    da ihtiyac\u0131m olmaz belki, iyi bir anla\u015Fma."
+  nextStates:
+  - {fileID: 11400000, guid: ffeebd4c29b27f446a78ff7ddd7cc803, type: 2}
+  - {fileID: 11400000, guid: c9a0a63c0123f704ba926209031ac279, type: 2}
+  ayrim: 0

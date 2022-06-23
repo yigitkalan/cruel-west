@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: F3
+  m_EditorClassIdentifier: 
+  storyText: "Maskelerimizi takt\u0131k ve yolculardan para ve de\u011Ferli tak\u0131lar\u0131n\u0131
+    toplayamaya ba\u015Flad\u0131k. O s\u0131rada adamlar\u0131m\u0131zdan biri vagon
+    kap\u0131s\u0131n\u0131 tutuyordu, herhangi bir ka\xE7ma denemesi i\xE7in. Hector
+    ve adamlar\u0131 paralar\u0131n\u0131 vermeyi reddedenleri vurup paralar\u0131
+    kendileri almay\u0131 tercih ettiler.\n\n1. Devam et"
+  nextStates:
+  - {fileID: 11400000, guid: 7abf19bb003fcba42be4d6619b6831a1, type: 2}
+  ayrim: 0

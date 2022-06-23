@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FFF7
+  m_EditorClassIdentifier: 
+  storyText: "Tamam \xE7antam neredeyse doldu, bu kadar para yeterli olmal\u0131.
+    Hector'a gidece\u011Fimi belirten bir bak\u0131\u015F att\u0131m ve vagon kap\u0131s\u0131na
+    do\u011Fru ilerledim. Hector'un ayarlad\u0131\u011F\u0131 at hala trenin yan\u0131nda,
+    onun \xFCst\xFCne atlay\u0131p uzakla\u015Ft\u0131m. Tren art\u0131k \xE7ok uzakta
+    ama hala silah seslerini duyuyorum. Bor\xE7 paras\u0131 haz\u0131r, kirli para.
+    O lanet heriflere borcumu \xF6deyip b\xFCt\xFCn bu karma\u015Fadan kurtulup ortadan
+    kaybolabilirim....\n\n- ger\xE7ekten ortadan kaybolabilece\u011Fini umuyorsun,
+    bu umut trenden uzakla\u015Ft\u0131k\xE7a daha da b\xFCy\xFCyor -\n\n1. Bitir"
+  nextStates:
+  - {fileID: 11400000, guid: cd6c16accd9551848a3b939bd7aca7fb, type: 2}
+  ayrim: 0

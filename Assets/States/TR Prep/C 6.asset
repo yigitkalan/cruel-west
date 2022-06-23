@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: C 6
+  m_EditorClassIdentifier: 
+  storyText: "Tamam mekan buras\u0131 olmal\u0131; eski bir kul\xFCbe, o k\xF6t\xFC
+    adam\u0131n ya\u015Fad\u0131\u011F\u0131 yer ger\xE7ekten buras\u0131 m\u0131?
+    H\u0131zl\u0131 bir \u015Fekilde kul\xFCbeyi bas\u0131yorum, adam\u0131m\u0131z
+    orada yatakta yat\u0131yor. Solgun g\xF6z\xFCk\xFCyor. Silah\u0131 ona do\u011Fru
+    tutuyorum, hareket etmiyor kendini savunam\u0131yor bile.\n\n1. \xD6LD\xDCR onu
+    ve bitir i\u015Fi, ba\u015Fkalar\u0131na ac\u0131mas\u0131z \u015Feyler yapt\u0131
+    sonu\xE7ta\n2. Herkes ikinci bir \u015Fans\u0131 haketmez mi, onu saklayabilirim."
+  nextStates:
+  - {fileID: 11400000, guid: b659ef0cca7e8e1409b4e2e9309c21d7, type: 2}
+  - {fileID: 11400000, guid: b659ef0cca7e8e1409b4e2e9309c21d7, type: 2}
+  ayrim: 1

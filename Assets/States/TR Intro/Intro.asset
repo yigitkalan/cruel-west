@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  storyText: "1870'lerde, bir bat\u0131 kasabas\u0131nda bir tak\u0131m insanlara
+    b\xFCy\xFCk borcu olan birisin.\nKendi yolunu ve sonunu se\xE7.\n\n- oyunun kontrolleri
+    1 ve 2 tu\u015Flar\u0131 -\n- oyunda herhangi bir zaman q ya basarak \xE7\u0131kabilirsiniz
+    -\n- unutmay\u0131n, yapt\u0131\u011F\u0131n\u0131z her se\xE7im bir fark yarat\u0131r
+    -\n\n1. Oyna"
+  nextStates:
+  - {fileID: 11400000, guid: 9b912655a0e572944a8fb37c304da905, type: 2}
+  ayrim: 0

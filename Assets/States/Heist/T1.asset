@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: T1
+  m_EditorClassIdentifier: 
+  storyText: 'Okay here it comes, I am here with my gun, my ticket and bag. But they
+    won''t let me in with a gun, better hide it somewhere around here I can get it
+    later. I step in the train when it''s at the station and try to find my seat.
+    And settle...
+
+    
+
+    1. Continue '
+  nextStates:
+  - {fileID: 11400000, guid: 8586866d6bf1dbe4aa54df45759985e1, type: 2}
+  ayrim: 

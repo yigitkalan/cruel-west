@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FF2
+  m_EditorClassIdentifier: 
+  storyText: "Trenin \xF6teki taraf\u0131ndan dolan\u0131p ormana do\u011Fru ko\u015Farken,
+    bir kad\u0131n trende kalan o\u011Flu ile ilgili \xE7\u0131\u011Fl\u0131k at\u0131p
+    a\u011Fl\u0131yordu. Bay\u0131ltt\u0131\u011F\u0131m \xE7ocuk mu?! \xC7ocu\u011Fun
+    trenin neresinde oldu\u011Funu biliyorum ama \xE7ok ge\xE7. Art\u0131k geri d\xF6n\xFCp
+    \xE7ocu\u011Fu kurtaramam, yakalan\u0131r\u0131m.\n\n1. Geri d\xF6n ve \xE7ocu\u011Fu
+    kurtar\n2. Onlar\u0131n problemi, benim kendi problemlerim var"
+  nextStates:
+  - {fileID: 11400000, guid: 9eca9fee31d35224b8c8915ea371d9e0, type: 2}
+  - {fileID: 11400000, guid: 87f72c1547a8a7e49ade320e44d746e0, type: 2}
+  ayrim: 0

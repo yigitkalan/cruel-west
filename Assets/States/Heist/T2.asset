@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: T2
+  m_EditorClassIdentifier: 
+  storyText: 'Okay here it comes, I am here with my bag and uniform. I''ll wait till
+    train starts moving and hop into it in the last second... I am in, in the supply
+    wagon.
+
+    That''s good there are a lot of flameable stuff. Time to get to
+    work.
+
+    
+
+    1. Prepare a fire'
+  nextStates:
+  - {fileID: 11400000, guid: 49212b52bd2f02a4ba2d4e9ad89a14c6, type: 2}
+  ayrim: 

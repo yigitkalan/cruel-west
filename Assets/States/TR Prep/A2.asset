@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  storyText: "Kendi ba\u015F\u0131ma treni soyamam. Belki de kaos yaratmak i\xE7in
+    bir yang\u0131n \xE7\u0131karabilirim ama ilk olarak i\xE7eri s\u0131zman\u0131n
+    bir yolunu bulmal\u0131y\u0131m. Biletler \xE7ok pahal\u0131,\r bilet \xE7alabilirim
+    ama sonu iyi bitmeyebilir, di\u011Fer yandan i\xE7eri girmenin ba\u015Fka bir
+    yolunu bulmak zor. Belki bir \xFCniforma bulabilirim, hat\u0131rlad\u0131\u011F\u0131m
+    kadar\u0131yla\r barda bir tren \xE7al\u0131\u015Fan\u0131 hakk\u0131nda bir
+    \u015Feyler duymu\u015Ftum.\r\r Belki onu verir?.\n\r\n1.Bilet \xE7al\r\n2.Tren
+    \xE7al\u0131\u015Fan\u0131ndan \xFCniforma bul"
+  nextStates:
+  - {fileID: 11400000, guid: 99837c88b7d2ee54e8b0386cff57b317, type: 2}
+  - {fileID: 11400000, guid: 246379788bd66cd4d82df653e549923d, type: 2}
+  ayrim: 1

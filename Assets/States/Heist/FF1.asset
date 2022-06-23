@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: FF1
+  m_EditorClassIdentifier: 
+  storyText: "...They must have been realized the fire, the train is slowing down...
+    They evacuating the passengers... Damn it, one of the guys in train crew trying
+    to get me out too. I cant just put him to sleep, I have a pocket knife if I injure
+    him he might scream and if I don't deal with this I'm not getting any money.\r\n\r\n1.
+    Slit his throat, at least it'll be quick.\r\r\n2. Just go out with him and disappear."
+  nextStates:
+  - {fileID: 11400000, guid: ada6fc660c687664188b3eac73afde0b, type: 2}
+  - {fileID: 11400000, guid: 67894cd1b6e2d5543834704499235149, type: 2}
+  ayrim: 0

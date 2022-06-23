@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: C 2
+  m_EditorClassIdentifier: 
+  storyText: 'After one or two punches he gives the ticket in a stew and says that
+    he already didn''t pay for this ticket and I cant take it. Good now all I gotta
+    do is wait for the train to come to the town. Meanwhile I can prepare the other
+    things I need and work on the plan.
+
+
+
+    1. Wait...'
+  nextStates:
+  - {fileID: 11400000, guid: 1ecb43f320e80a84fbdef1fea49dd76f, type: 2}
+  ayrim: 0

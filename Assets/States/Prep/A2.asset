@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73112794e18953648b8ed7d625a1fc87, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  storyText: 'I can''t just rob the train by myself maybe I can start a fire for
+    chaos but first gotta find a way to sneak in.Tickets are so expensive, I could
+    steal a ticket but that might end bad, on the other finding another way to get
+    in might be difficult. Maybe I can find a uniform, I remember hearing something
+    about a train worker in the saloon.
+
+
+
+    1. Steal a ticket
+
+    2. Find a train
+    worker uniform'
+  nextStates:
+  - {fileID: 11400000, guid: 7509d647955f19c419151f6281d3bef4, type: 2}
+  - {fileID: 11400000, guid: 362f4543dfb53ee4dbe2c1c35350014f, type: 2}
+  ayrim: 0
